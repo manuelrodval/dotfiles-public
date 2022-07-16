@@ -124,6 +124,8 @@ nnoremap <leader>FF <cmd>CocCommand prettier.formatFile<cr>
 nnoremap <buffer><silent> <c-q> <cmd>call Black()<cr>
 
 "" General Keymaps
+nnoremap <leader>y "*yy
+tnoremap <Esc> <C-\><C-n>
 nmap <A-v> :vsplit <cr>
 nmap <A-s> :split <cr>
 nmap <A-t> :ToggleTermToggleAll <cr>
