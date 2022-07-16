@@ -10,6 +10,7 @@ Clone this repo wherever you want (preferably in ~/projects) and follow this ste
 2. [Install neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 3. [Install Vim-Plug](https://github.com/junegunn/vim-plug) 
 4. Run config-files.sh to source config files.
+
 	```
 	sudo bash ${PWD}/config-files.sh
 	```
