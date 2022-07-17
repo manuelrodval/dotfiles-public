@@ -33,11 +33,6 @@ call plug#end()
 
 colorscheme everforest
 
-" COC configurations
-" ---------------------------------------------
-
-source ~/.config/nvim/coc.vim
-
 " Nvim-Autopairs config
 " ---------------------------------------------
 lua << EOF
